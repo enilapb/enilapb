@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I'm Aline Donato and I’m currently working as Full Stack Develop. 
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&layout=compact)](https://github.com/enilapb/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/enilapb?style=social)](https://twitter.com/enilapb)
 [![Linkedin: alinedonato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedonato/)](https://www.linkedin.com/in/alinedonato/)
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&layout=compact)](https://github.com/enilapb/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
 
 ## ⚡ Technologies
 
