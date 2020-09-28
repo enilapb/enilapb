@@ -21,6 +21,8 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 [![Linkedin: alinedonato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedonato/)](https://www.linkedin.com/in/alinedonato/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
+<br>
+<br>
 
 ## ⚡ Technologies
 
