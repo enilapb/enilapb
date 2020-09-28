@@ -26,6 +26,9 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
 <br>
 
+<br>
+<br>
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
