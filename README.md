@@ -25,7 +25,6 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 <div style="float:left" >
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
 </div>
-<br>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&layout=compact)](https://github.com/enilapb/github-readme-stats)
 </div>
