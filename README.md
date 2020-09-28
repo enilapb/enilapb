@@ -23,6 +23,8 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
 <br>
 <br>
+<br>
+<br>
 
 ## ⚡ Technologies
 
