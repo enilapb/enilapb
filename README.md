@@ -21,8 +21,6 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 [![Linkedin: alinedonato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedonato/)](https://www.linkedin.com/in/alinedonato/)
 
 
-<br>
-<br>
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
