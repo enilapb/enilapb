@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
+
+<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/enilapb?style=social)](https://twitter.com/enilapb)
 [![Linkedin: alinedonato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedonato/)](https://www.linkedin.com/in/alinedonato/)
 
