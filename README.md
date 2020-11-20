@@ -1,7 +1,4 @@
 
-<!--
-**enilapb/enilapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
 
 I'm Aline Donato and I’m currently working as Full Stack Develop.
