@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm Aline Donato and I’m currently working as Full Stack Develop.
+I'm Aline Donato and I’m currently working as Full Stack Developer.
 <br>
 
 ### Stats
