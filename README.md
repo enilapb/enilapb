@@ -19,9 +19,16 @@ I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
 
 <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/enilapb?style=social)](https://twitter.com/enilapb)
-[![Linkedin: alinedonato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedonato/)](https://www.linkedin.com/in/alinedonato/)
 
+### Contact
+
+<p align='center'>
+  
+<a href="https://twitter.com/enilapb"><img height="50" src="https://img.shields.io/twitter/follow/enilapb?style=social"></a>
+<a href="https://www.linkedin.com/in/alinedonato/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:enilapb@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
+
+</p>
 <br>
 
 ## ⚡ Technologies
