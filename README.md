@@ -53,9 +53,12 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=enilapb&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="enilapb's Github Stats">
-<br>
+<p align="center">
+<a href="https://github.com/enilapb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
+</a>
+</p>
 
 
 
