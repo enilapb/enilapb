@@ -1,10 +1,10 @@
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
 
-## Technologies
+### Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -32,7 +32,7 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
-## Contact
+### Contact
 
 <p align='center'>
   
