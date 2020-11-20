@@ -18,17 +18,7 @@ Here are some ideas to get you started:
 I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
 
-<br>
 
-### Contact
-
-<p align='center'>
-  
-<a href="https://twitter.com/enilapb"><img height="50" src="https://img.shields.io/twitter/follow/enilapb?style=social"></a>
-<a href="https://www.linkedin.com/in/alinedonato/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:enilapb@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
-
-</p>
 <br>
 
 ## ⚡ Technologies
@@ -58,6 +48,18 @@ These are some of the technologies and tools that I work with:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
 </a>
+</p>
+
+<br>
+
+### Contact
+
+<p align='center'>
+  
+<a href="https://twitter.com/enilapb"><img height="50" src="https://img.shields.io/twitter/follow/enilapb?style=social"></a>
+<a href="https://www.linkedin.com/in/alinedonato/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:enilapb@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
+
 </p>
 
 
