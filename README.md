@@ -2,23 +2,9 @@
 <!--
 **enilapb/enilapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋
 
 I'm Aline Donato and I’m currently working as Full Stack Develop.
-<br>
-
-
 <br>
 
 ## ⚡ Technologies
@@ -42,7 +28,6 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<br>
 <p align="center">
 <a href="https://github.com/enilapb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
@@ -50,14 +35,12 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
-<br>
-
 ### Contact
 
 <p align='center'>
   
 <a href="https://twitter.com/enilapb"><img height="50" src="https://img.shields.io/twitter/follow/enilapb?style=social"></a>
-<a href="https://www.linkedin.com/in/alinedonato/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alinedonato/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>
 <a href="mailto:enilapb@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 
 </p>
