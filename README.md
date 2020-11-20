@@ -27,8 +27,8 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
 <a href="https://github.com/enilapb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
 </a>
 </p>
 
