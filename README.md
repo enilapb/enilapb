@@ -4,6 +4,15 @@
 I'm Aline Donato and I’m currently working as Full Stack Develop.
 <br>
 
+### Stats
+
+<p align="center">
+<a href="https://github.com/enilapb">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
+</a>
+</p>
+
 ### Technologies
 
 These are some of the technologies and tools that I work with:
@@ -25,12 +34,6 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/enilapb">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=enilapb&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enilapb&theme=buefy&layout=compact&langs_count=8" />
-</a>
-</p>
 
 ### Contact
 
