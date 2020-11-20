@@ -32,7 +32,7 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
-### Contact
+## Contact
 
 <p align='center'>
   
@@ -41,9 +41,4 @@ These are some of the technologies and tools that I work with:
 <a href="mailto:enilapb@gmail.com"><img height="32" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 
 </p>
-
-
-
-
-
 
